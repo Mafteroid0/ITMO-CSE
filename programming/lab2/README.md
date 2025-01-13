@@ -37,7 +37,7 @@
 
 Используя класс симуляции боя `Battle`, создать 2 команды покемонов (каждый покемон должен иметь имя) и запустить бой.
 
-![alt text](https://github.com/Mafteroid0/ITMO-CSE/blob/main/programming/lab2/pokemons.jpeg?raw=true)
+![alt text](https://github.com/Mafteroid0/ITMO-CSE/blob/main/programming/lab2/assets/pokemons.jpeg?raw=true)
 ---
 #### Компиляция
 ```
