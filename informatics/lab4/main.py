@@ -3,6 +3,13 @@ import xmltodict
 import yaml
 import formal
 import time
+import os
+try: 
+    os.makedirs("/output")
+except OSError:
+    if not os.path.isdir("/output"):
+        raise
+
 
 xml_file = open('schedule.xml')
 xml_string = xml_file.read()
