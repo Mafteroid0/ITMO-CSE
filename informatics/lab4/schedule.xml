@@ -1,0 +1,60 @@
+<root>
+        <schedule>
+    <day1>
+        <day_of_the_week>Вторник</day_of_the_week>
+        <lesson1>
+            <title>Математический анализ</title>
+            <teacher>Исаева Татьяна Тимофеевна</teacher>
+            <start_time>8:20AM</start_time>
+            <end_time>9:50AM</end_time>
+            <group>Мат Ан 8.4</group>
+            <type>Практика</type>
+            <building>Дистанционный</building>
+            <auditorium>Zoom</auditorium>
+        </lesson1>
+        <lesson2>
+            <title>Линейная алгебра</title>
+            <teacher>Рванова Алла</teacher>
+            <start_time>10:00AM</start_time>
+            <end_time>11:30AM</end_time>
+            <group>Лин Алг 1</group>
+            <type>Лекция</type>
+            <building>Кронверский пр., д.49, лит.А</building>
+            <auditorium>2426</auditorium>
+        </lesson2>
+        <lesson3>
+            <title>Линейная алгебра</title>
+            <teacher>Рванова Алла</teacher>
+            <start_time>11:40AM</start_time>
+            <end_time>1:10PM</end_time>
+            <group>Лин Алг 1.2</group>
+            <type>Практика</type>
+            <building>Кронверский пр., д.49, лит.А</building>
+            <auditorium>2430</auditorium>
+        </lesson3>
+    </day1>
+    <day2>
+        <day_of_the_week>Четверг</day_of_the_week>
+        <lesson1>
+            <title>Информатика</title>
+            <teacher>Авксентьева Елена Юрьевна</teacher>
+            <start_time>8:20AM</start_time>
+            <end_time>9:50AM</end_time>
+            <group>Информ. 1.14 (P3119)</group>
+            <type>Практика</type>
+            <building>Кронверский пр., д.49, лит.А</building>
+            <auditorium>2308</auditorium>
+        </lesson1>
+        <lesson2>
+            <title>Информатика</title>
+            <teacher>Авксентьева Елена Юрьевна</teacher>
+            <start_time>10:00AM</start_time>
+            <end_time>11:30AM</end_time>
+            <group>Информ. 1.14 (P3119)</group>
+            <type>Практика</type>
+            <building>Кронверский пр., д.49, лит.А</building>
+            <auditorium>2308</auditorium>
+        </lesson2>
+    </day2>
+</schedule>
+    </root>
