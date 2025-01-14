@@ -5,9 +5,9 @@ import formal
 import time
 import os
 try: 
-    os.makedirs("/output")
+    os.makedirs("./output")
 except OSError:
-    if not os.path.isdir("/output"):
+    if not os.path.isdir("./output"):
         raise
 
 
